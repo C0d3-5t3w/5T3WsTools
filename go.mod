@@ -1,4 +1,4 @@
-module github.com/C0d3-5t3w/5T3WsTools
+module github.com/C0d3-5t3w/extGo
 
 go 1.24.1
 

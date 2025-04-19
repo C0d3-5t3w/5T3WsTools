@@ -1,0 +1,1 @@
+Extended functions for standard go

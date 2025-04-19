@@ -1,4 +1,4 @@
-module github.com/C0d3-5t3w/MyGo
+module github.com/C0d3-5t3w/myT00L5
 
 go 1.24.1
 
